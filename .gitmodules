@@ -1,0 +1,12 @@
+[submodule "PatternRecognition.Lab4"]
+	path = PatternRecognition.Lab4
+	url = git://github.com/RomanTymchyshyn/PatternRecognition.Lab4
+[submodule "PatternRecognition.Lab3"]
+	path = PatternRecognition.Lab3
+	url = git://github.com/RomanTymchyshyn/PatternRecognition.Lab3
+[submodule "PatternRecognition.Lab2"]
+	path = PatternRecognition.Lab2
+	url = git://github.com/RomanTymchyshyn/PatternRecognition.Lab2
+[submodule "PatternRecognition.Lab1"]
+	path = PatternRecognition.Lab1
+	url = git://github.com/RomanTymchyshyn/PatternRecognition.Lab1
